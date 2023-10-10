@@ -18,14 +18,18 @@ package com.google.samples.apps.sunflower.ui
 
 import androidx.compose.ui.graphics.Color
 
-val md_theme_light_primary = Color(0xFF246D00)
+// warna menu
+val md_theme_light_primary = Color(0xFFF37AC3)
 val md_theme_light_onPrimary = Color(0xFFFFFFFF)
 val md_theme_light_primaryContainer = Color(0xFFA6F780)
-val md_theme_light_onPrimaryContainer = Color(0xFF062100)
-val md_theme_light_secondary = Color(0xFF55624C)
+val md_theme_light_onPrimaryContainer = Color(0xFF5C2F4A)
+// warna unchoose menu
+val md_theme_light_secondary = Color(0xFF5C2F4A)
 val md_theme_light_onSecondary = Color(0xFFFFFFFF)
-val md_theme_light_secondaryContainer = Color(0xFFD8E7CB)
-val md_theme_light_onSecondaryContainer = Color(0xFF131F0D)
+// warna card
+val md_theme_light_secondaryContainer = Color(0xFFF37AC3)
+// warna tulisan card
+val md_theme_light_onSecondaryContainer = Color(0xFFFFE4D6)
 val md_theme_light_tertiary = Color(0xFF386667)
 val md_theme_light_onTertiary = Color(0xFFFFFFFF)
 val md_theme_light_tertiaryContainer = Color(0xFFBBEBEC)
@@ -34,8 +38,10 @@ val md_theme_light_error = Color(0xFFBA1A1A)
 val md_theme_light_errorContainer = Color(0xFFFFDAD6)
 val md_theme_light_onError = Color(0xFFFFFFFF)
 val md_theme_light_onErrorContainer = Color(0xFF410002)
+// warna background home
 val md_theme_light_background = Color(0xFFFDFDF6)
 val md_theme_light_onBackground = Color(0xFF1A1C18)
+// warna background menu
 val md_theme_light_surface = Color(0xFFFDFDF6)
 val md_theme_light_onSurface = Color(0xFF1A1C18)
 val md_theme_light_surfaceVariant = Color(0xFFDFE4D7)
